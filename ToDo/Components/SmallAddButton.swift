@@ -1,9 +1,3 @@
-//
-//  SmallAddButton.swift
-//  ToDo
-//
-//  Created by Stephanie Diep on 2021-12-06.
-//
 
 import SwiftUI
 
